@@ -15,7 +15,7 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  background-color: #66A1E6;
+  background-color: #125B50;
   overflow: hidden;
   max-width: 100%;
 }
@@ -26,7 +26,7 @@ li a:hover {
 
 body {
   margin: 0;
-  background-image: url('pfp.jpg');
+  background-color: #FAF5E4;
   background-repeat: no-repeat;
   background-size: 100% 80%;
 }
@@ -56,7 +56,7 @@ button {
   width: 150px;
   height: 30px;
   border-radius: 10px;
-  background-color: #66A1E6;
+  background-color: #F8B400;
   border: none;
   color: white;
 }
