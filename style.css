@@ -61,10 +61,10 @@ button {
 
 @media only screen and (max-width: 500px) {
   .footer {
-    bottom: 100%; 
-    left: 0; 
+    bottom: 100%;  
     padding: 2px;
     padding-bottom: 10px;
+    max-width: 100%;
   }
 }
 
