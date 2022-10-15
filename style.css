@@ -75,4 +75,5 @@ button {
    height: 60px;
    background: #FF6363;
    position: absolute;
+   text-align: center;
 }
