@@ -69,16 +69,6 @@ button {
   }
 }
 
-@media only screen and (max-width: 1000px) {
-  .footer {
-    bottom: 100%; 
-    left: 0; 
-    padding: 2px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-  }
-}
-
 .footer {
    bottom: 0;
    width: 100%;
