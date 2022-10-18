@@ -1,3 +1,3 @@
-function myFunction() {
-  window.history.back();
+function goback() {
+  location.replace("index.html");
 }
