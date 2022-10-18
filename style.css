@@ -1,0 +1,50 @@
+body { 
+  background: url(pexels-oleksandr-pidvalnyi-321552.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 20px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 20px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+input[type=email] {
+  width: 100%;
+  padding: 20px 20px;
+  margin: 9px 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+input[type=submit] {
+  padding: 10px 30px;
+  margin-left: 100px;
+  bottom: 1px;
+  transform: translate(5px, -38px);
+  border-radius: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+  
+input[type=reset] {
+  padding: 10px 30px;
+  border-radius: 20px;
+  bottom: 1px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
