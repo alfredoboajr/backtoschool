@@ -71,7 +71,7 @@ textarea {
 .footer2 {
   background: #FF6363;
   margin-bottom: -20px;
-  height: 150px;
+  height: 170px;
   padding: 5px;
 }
 
@@ -80,7 +80,7 @@ textarea {
   .footer2 {
    background: black;
    margin-bottom: 0px;
-   height: 150px;
+   height: 170px;
    padding: 0px;
    background: #FF6363;
   }
