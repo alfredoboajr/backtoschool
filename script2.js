@@ -3,5 +3,5 @@ function goback() {
 }
 
 function notavailable() {
-  alert(navigator.userAgent)
+  alert("Posting comments aren't available at this time. Please stay tuned")
 }
